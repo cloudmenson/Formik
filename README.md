@@ -1,11 +1,12 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple validation with Formik
 
-## Available Scripts
+# Getting Started
 
-In the project directory, you can run:
+Open terminal and install dependencies with command: `npm install`,
 
+<<<<<<< HEAD
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -69,4 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # React-Formik
+# React_Formik-Material-UI
+=======
+then run: `npm start` to start.
+>>>>>>> 2bf1bf4e78e5a13a48aeafbc8b4b1920620b9952
 # React_Formik-Material-UI
