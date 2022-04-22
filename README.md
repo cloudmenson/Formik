@@ -1,6 +1,6 @@
 # Description
 
-Simple validation with Formik
+Simple validation with Formik and design with Material UI
 
 # Getting Started
 
